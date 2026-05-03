@@ -153,7 +153,7 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## 👤 Author
 
-**[Your Name]**
+**Vinit M**
 ML Internship Project — Internshala Trainings
 
 ---
